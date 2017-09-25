@@ -1,3 +1,6 @@
+### Functional scala interactive workshop material
+
+
 #### Requirements
 Install the following dependencies in order to configure your environment.
 
